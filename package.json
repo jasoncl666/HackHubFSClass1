@@ -1,0 +1,22 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "using Express to create a server and deploy files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncl666/HackHubFSClass1.git"
+  },
+  "author": "Jason Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoncl666/HackHubFSClass1/issues"
+  },
+  "homepage": "https://github.com/jasoncl666/HackHubFSClass1#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
